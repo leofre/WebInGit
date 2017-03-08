@@ -1,0 +1,15 @@
+<suite name="Discussion Feature" parallel="tests"  >
+
+<test name="precondition Before Testing DiscussionFeature">
+<classes>
+	<class name="analystPage.DiscussionFeature">
+		<methods>
+			<include name="preconditionBeforeTestingDiscussionFeature" />
+		</methods>
+	</class>
+</classes>>
+</test>
+
+
+
+</suite>
