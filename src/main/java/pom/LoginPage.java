@@ -20,7 +20,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import com.relevantcodes.extentreports.ExtentTest;
 import com.relevantcodes.extentreports.LogStatus;
 
-import utilities.BasicMethods;
+import utilitiesWeb.BasicMethods;
 
 public class LoginPage   
 

@@ -1,7 +1,7 @@
 package analystPage;
 
 import pom.*;
-import utilities.*;
+import utilitiesWeb.*;
 
 import java.io.IOException;
 
@@ -73,6 +73,7 @@ public class DiscussionFeature {
 		login.LoginToAuguryStaging();
 		test.log(LogStatus.PASS, "Finished test: " + nameOfTestWithSpaces);
 		Reporter.log("Thread : "+Thread.currentThread().getId()+" is ended", true);
+		
 	}
 	
 	
