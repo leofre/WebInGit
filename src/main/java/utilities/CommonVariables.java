@@ -10,12 +10,14 @@ public class CommonVariables {
 	
 	//public static String pathOfDirectoryThatContainsReports = "C:\\Users\\leonid\\workspace\\TestCasesSelenium\\reports\\";
 	//public static String pathForScreenShots = "C:\\Users\\leonid\\workspace\\TestCasesSelenium\\screenShots\\";
-	public static String pathOfDirectoryThatContainsReports = "C:\\Users\\leonid\\workspace\\Web\\reports\\";
-	public static String pathForScreenShots = "C:\\Users\\leonid\\workspace\\Web\\screenShots\\";
+	//public static String pathOfDirectoryThatContainsReports = "C:\\Users\\leonid\\workspace\\Web\\reports\\";
+	//public static String pathForScreenShots = "C:\\Users\\leonid\\workspace\\Web\\screenShots\\";
+	public static String pathOfDirectoryThatContainsReports = "C:\\Users\\leonid\\Desktop\\Repos\\WebInGit\\reports\\";
+	public static String pathForScreenShots = "C:\\Users\\leonid\\Desktop\\Repos\\WebInGit\\screenShots\\";
 
 
 	
-				
+	
 			
 
 	
